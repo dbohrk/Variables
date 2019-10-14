@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/dbohrk/Eliza.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/springframeworkguru/mb2g-testing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects/udemy-maven" />
